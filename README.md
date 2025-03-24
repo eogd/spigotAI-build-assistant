@@ -1,2 +1,1 @@
-# AIwritePlugins
-Let Gemini help you build the spigot plugin
+调用ai帮助你构建插件
