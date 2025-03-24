@@ -5,8 +5,8 @@ import java.nio.charset.StandardCharsets;
 import java.util.*;
 
 public class GeminiPluginGenerator {
-    // Gemini API，因为他是免费的，我很喜欢
-    private static final String API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent";
+    // AI API，因为他是免费的，我很喜欢
+    private static final String API_URL = "URL";
     private static final String API_KEY = "YOUR_API_KEY_HERE"; 
     
     // 项目配置
