@@ -127,7 +127,7 @@ public class GeminiPluginGenerator {
     }
 
     private static void writeFiles(Path path, String code) throws Exception {
-        // 确保UTF-8编码写入（网页5）
+        // UTF-8
         Files.write(path.resolve("src/main/java/com/gemini/GeminiPlugin.java"), 
                    code.getBytes(StandardCharsets.UTF_8));
         
