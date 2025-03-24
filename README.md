@@ -1,2 +1,2 @@
 # AIwritePlugins
-Let AI help you write plugins!
+Let Gemini help you build the spigot plugin
