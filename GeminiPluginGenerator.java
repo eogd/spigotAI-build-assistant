@@ -5,7 +5,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.*;
 
 public class GeminiPluginGenerator {
-    // AI API，因为他是免费的，我很喜欢
+    // AI API
     private static final String API_URL = "URL";
     private static final String API_KEY = "YOUR_API_KEY_HERE"; 
     
